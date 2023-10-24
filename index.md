@@ -12,7 +12,7 @@
   alert('Correct Password\nWelcome!');
 </script>
 
-<h1 style="color:red;">monkey3three</h1>
+<h1 style="color:red;">Warped Sites</h1>
 <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&amp;label=Site%20views&amp;color=ce9927&amp;style=flat" alt="GITHUB-USERNAME">
 <style>
 .button {
